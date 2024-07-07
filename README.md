@@ -1,3 +1,3 @@
 # Hello-world
-Connecting best minds with awesome companies!
+Connecting best minds with awesome companies
 
